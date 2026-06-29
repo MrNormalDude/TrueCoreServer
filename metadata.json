@@ -1,0 +1,6 @@
+{
+  "name": "Truecore Minecraft Server",
+  "description": "Официальный сайт Vanilla+ сервера Truecore. Чистое выживание, уютное комьюнити и сбалансированные механики.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
